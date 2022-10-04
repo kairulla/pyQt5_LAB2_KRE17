@@ -1,4 +1,3 @@
-<img src="2022-09-08_094612.png" width=50% align="middle"><img src="2022-09-08_094640.png" width=50% align="middle">
-<img src="2022-09-08_094649.png" width=36% align="middle"><img src="2022-09-08_094704.png" width=64% align="middle">
-<img src="2022-09-08_094718.png" width=50% align="middle"><img src="2022-09-08_094728.png" width=50% align="middle">
-<img src="2022-09-08_094739.png" width=64% align="middle"><img src="2022-09-08_094821.png" width=36% align="middle">
+<img src="_MY_PICTURES/Task_2.png" width=100% align="middle"><img src="_MY_PICTURES/2022-10-05_022317.png" width=50% align="middle"><img src="_MY_PICTURES/2022-10-05_022705.png" width=50% align="middle">
+<img src="_MY_PICTURES/2022-10-05_022338.png" width=50% align="middle"><img src="_MY_PICTURES/2022-10-05_022349.png" width=50% align="middle">
+<img src="_MY_PICTURES/2022-10-05_022623.png" width=100% align="middle"><img src="_MY_PICTURES/logo.png" width=100% align="middle">
